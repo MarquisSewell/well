@@ -1,0 +1,79 @@
+@import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
+
+nav{    
+  width: 150px;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding:0;
+  margin-right: 10px;
+  opacity:0.6;
+}
+
+#brand {
+  font-size: 60px;
+}
+
+.navbar {
+  margin-top: 100px;
+}
+
+span {
+  color: black;
+}
+
+h3 {
+  color: white;
+}
+
+h1 {
+  color: white;
+  margin: 20px;
+}
+
+h4 {
+  color: white;
+}
+
+Footer {
+display:block;
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 100px;
+background-color: Black;
+opacity:0.9;
+}
+
+p {
+  color:White;
+  font-size: 30px;
+  text-align:center
+}
+
+li {
+  color:Black;
+}
+
+.well {
+  padding: 10px;
+}
+
+img {
+  opacity: 1;
+}
+
+.thumbnail {
+  margin-top: 15px;
+  padding: 10%;
+  background: rgba(0, 0, 0 ,0.6);
+}
+
+.caption {
+    background: transparent;
+}
+
+.alpha60 {
+ background: rgba(255, 255, 255, 255.6);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+}
