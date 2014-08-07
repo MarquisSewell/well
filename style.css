@@ -65,7 +65,7 @@ li {
   padding: 10px;
   height: 50%;
   width: 50%;
-  background: transparent;
+  background: rgba(0, 0, 0 ,0.6);
 }
 
 img {
