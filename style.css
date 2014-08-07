@@ -63,6 +63,8 @@ li {
 
 .well {
   padding: 10px;
+  height: 50%;
+  width: 50%;
 }
 
 img {
@@ -82,4 +84,6 @@ img {
 .alpha60 {
  background: rgba(255, 255, 255, 255.6);
   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+}
+    
 }
