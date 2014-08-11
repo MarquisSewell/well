@@ -64,7 +64,7 @@ li {
 .well {
   padding: 10px;
   height: 50%;
-  width: 50%;
+  width: 100%;
   background: rgba(0, 0, 0 ,0.6);
 }
 
